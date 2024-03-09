@@ -1,2 +1,1 @@
-# stonepaperseissor
-python project game
+Python Projects
